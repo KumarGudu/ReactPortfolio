@@ -1,4 +1,4 @@
-[https://github.com/facebook/create-react-app]( Getting Started with Create React App)
+[Getting Started with Create React App](https://github.com/facebook/create-react-app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Host Id - https://kumargudu.github.io/ReactPortfolio/
